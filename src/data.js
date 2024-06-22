@@ -1,7 +1,7 @@
 const blogs = [
     {
         "id": "1",
-        "title": "",
+        "title": "AI The Future",
         "content": "Artificial Intelligence is rapidly evolving, impacting various industries.",
         "author": {
           "name": "Rahul A",
@@ -68,29 +68,7 @@ const blogs = [
     "date": "2024-05-30",
     "categories": ["Automotive", "Technology"]
   }
-,
-{
-    "id": "7",
-    "title": "Innovations in Education Technology",
-    "content": "EdTech is transforming how students learn and teachers teach with new tools and resources.",
-    "author": {
-      "name": "Noah G",
-      "avatar": "https://i.pravatar.cc/150?img=35"
-    },
-    "date": "2024-06-05",
-    "categories": ["Education", "Technology"]
-  },
-  {
-    "id": "8",
-    "title": "The Growing Importance of Cybersecurity",
-    "content": "Cybersecurity measures are essential in protecting data and privacy in the digital age.",
-    "author": {
-      "name": "Ava H",
-      "avatar": "https://i.pravatar.cc/150?img=25"
-    },
-    "date": "2024-06-12",
-    "categories": ["Security", "Technology"]
-  }
+
  ];
     
 

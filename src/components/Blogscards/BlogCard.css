@@ -1,10 +1,10 @@
 .Blog-card{
     padding: 10px;
     margin: 10px;
-    background-color: #cab9e5;
-    background-image: linear-gradient(0deg, #c2e8f8 0%, #667bb9 100%);
+    background-color: #f7b6d3;
+    background-image: linear-gradient(0deg, #d790d2 0%, #e39fd3 100%);
     width: 300px;
-    border-radius: 20px;
+    border-radius: 15px;
     text-decoration: none;
     color: black;
     position: relative;
@@ -43,6 +43,7 @@
     height: 50px;
     width: 50px;
     border-radius: 50%;
+    
 }
 .author-card{
     display: flex;
@@ -55,10 +56,9 @@
     font-weight: bold;
 }
 .blog-categories{
-    position: absolute;
-     bottom: 10px;
+     
     font-size: 14px;
-    background-color: black;
+    background-color: rgb(250, 142, 142);
     color: white;
     padding: 5px 20px;
     margin: 5px;
